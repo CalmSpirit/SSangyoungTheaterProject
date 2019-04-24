@@ -21,7 +21,7 @@ public class SCUMainRun{
 	public static void main(String[] args) {
 		SCUMainRun smr = new SCUMainRun();
 		
-		smr.initFile();
+//		smr.initFile();
 		new SCUMainView();
 	}//Main	
 }//SCUMainRun
