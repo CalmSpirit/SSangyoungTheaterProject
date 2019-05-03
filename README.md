@@ -39,7 +39,8 @@
 ![](https://github.com/CalmSpirit/SSangyoungTheaterProject/blob/master/readme_resources/png/20.png)
 ***
 ![](https://github.com/CalmSpirit/SSangyoungTheaterProject/blob/master/readme_resources/png/21.png)
-****/
+***
+*/
 # 시연
 ##### 로그인&마이페이지
 ![](https://github.com/CalmSpirit/SSangyoungTheaterProject/blob/master/readme_resources/gif/%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80.gif)
